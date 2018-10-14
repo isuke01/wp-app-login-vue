@@ -51,8 +51,18 @@ Lints and fixes files
 npm run lint
 ```
 
+### TO DO
+
+* Check Woo Compability
+* Create new user ?
+* Edit current user
+* Edit another user
+* Edit Post
+* Make this example more UI friendly :)
+
 ### At the End
 
 * Check it first without any 3'th part WP REST plugins, may be some conflicts
 * More about Auth for WP Rest [WP REST V2](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/)
 * Big thanks to [Jonathan de Jong](https://github.com/jonathan-dejong) for great work and development :)
+
